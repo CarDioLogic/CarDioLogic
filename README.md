@@ -1,6 +1,8 @@
 ### João Silva
 ## Aspiring fullstack developer
 
+*texto descritivo
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
