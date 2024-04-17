@@ -41,6 +41,4 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
- 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/kikolaranjeira"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kikolaranjeira" /></a></p>
+
